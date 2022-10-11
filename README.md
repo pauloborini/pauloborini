@@ -1,3 +1,4 @@
+<img align="center" src="https://user-images.githubusercontent.com/86570695/195183661-5cc17af2-5801-4e29-99eb-49ba4e8c433b.jpg" alt="pauloborini" />
 <h1 align="center">Oi 👋, Eu me chamo Paulo Borini, prazer em conhecê-lo.</h1>
 <h3 align="center">Sou um iniciante na programação que se apaixonou por Python.</h3>
 
