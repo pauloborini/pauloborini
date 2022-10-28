@@ -4,11 +4,10 @@
 
 - 🔭 Atualmente estou procurando o emprego, em que eu possa desenvolver meus conhecimentos e aprender cada vez mais.
 
-- 🤝 Estou interessado em trabalhar com backend, mas a parte mobile com Flutter também me interessa.
+- 🤝 Estou interessado em trabalhar com mobile, no framework Flutter, mas a parte de backend com Django REST Framework, também me interessa.
 
-- 🌱 Estou estudando e praticando com meus projetos em Django, Django RF e Python, mas também fazendo curso de Flask e Flutter, pois continuo estudando e me interesso por novas tecnologias.
+- 🌱 Estou estudando sempre que posso, aprendendo mais sobre como melhorar meu código e novas funcionalidades para utilizar no Flutter e Django.
 
-- ⚡ Espero um dia criar algo que possa revolucionar e você poderá encontrar em **https://github.com/pauloborini/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
