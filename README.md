@@ -1,6 +1,6 @@
 <img align="center" src="https://user-images.githubusercontent.com/86570695/198671641-29983715-5eb6-4c78-a761-98b9040a953f.jpg" alt="pauloborini" />
 <h1 align="center">Oi 👋, Eu me chamo Paulo Borini, prazer em conhecê-lo.</h1>
-<h3 align="center">Sou um iniciante na programação que se apaixonou por Python e Flutter</h3>
+<h3 align="center">Flutter Dev | Python Dev</h3>
 
 - 🔭 Atualmente estou procurando o emprego, em que eu possa desenvolver meus conhecimentos e aprender cada vez mais.
 
