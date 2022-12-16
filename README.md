@@ -4,9 +4,9 @@
 
 - 🔭 Atualmente estou procurando o emprego, em que eu possa desenvolver meus conhecimentos e aprender cada vez mais.
 
-- 🤝 Estou interessado em trabalhar com mobile, no framework Flutter, mas a parte de backend com Django REST Framework, também me interessa.
+- 🤝 Estou interessado em trabalhar com mobile, no framework Flutter.
 
-- 🌱 Estou estudando sempre que posso, aprendendo mais sobre como melhorar meu código e novas funcionalidades para utilizar no Flutter e Django.
+- 🌱 Estou estudando sempre que posso, aprendendo mais sobre como melhorar meu código e novas funcionalidades para utilizar no Flutter.
 
 
 <h3 align="left">Connect with me:</h3>
