@@ -2,11 +2,9 @@
 <h1 align="center">Oi 👋, Eu me chamo Paulo Borini, prazer em conhecê-lo.</h1>
 <h3 align="center">Flutter Developer</h3>
 
-- 🔭 Atualmente estou procurando o emprego, em que eu possa desenvolver meus conhecimentos e aprender cada vez mais.
+- 🔭 Atualmente sou desenvolvedor Flutter, na empresa João Pster, codando e coordenando um grande projeto.
 
-- 🤝 Estou interessado em trabalhar com mobile, no framework Flutter.
-
-- 🌱 Estou estudando sempre que posso, aprendendo mais sobre como melhorar meu código e novas funcionalidades para utilizar no Flutter.
+- 🌱 Estudo sempre que posso, aprendendo mais sobre como melhorar meu código e novas funcionalidades para utilizar no Flutter.
 
 <a href="https://www.buymeacoffee.com/pauloborini" target="_blank"><img src="https://salmonweird.files.wordpress.com/2021/12/blue-button.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
