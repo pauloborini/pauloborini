@@ -1,12 +1,9 @@
 
-> help --info
-> 
-> Desenvolvedor Flutter
-> 
-> Formado em Redes de Computadores e graduando em Ciência da Computação
-> 
-> Gosto de aprender e de novos desafios
-> 
+\> help --info \
+<a>>  Desenvolvedor Flutter\
+\> Formado em Redes de Computadores e graduando em Ciência da Computação\
+\> Gosto de aprender e de novos desafios
+
 
 
 <h3 align="left">Connect with me:</h3>
